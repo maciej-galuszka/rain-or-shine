@@ -1,6 +1,6 @@
-# Weather Forecast App 🌦️
+# Rain or shine 🌦️
 
-This is a responsive weather forecast web application built with vanilla JavaScript, HTML, and CSS. It fetches weather data from Open-Meteo and allows users to search for locations or use their current geolocation to display a 5-day forecast.
+A responsive weather forecast web application built with vanilla JavaScript, HTML, and CSS. It fetches weather data from Open-Meteo and allows users to search for locations or use their current geolocation to display a 5-day forecast.
 
 
 ## Features ✨
@@ -71,10 +71,10 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-tracker.git
+   git clone https://github.com/your-username/rain-or-shine.git
 2. Navigate to the project directory::
    ```bash
-   cd task-tracker
+   cd rain-or-shine
 3. Open index.html in your browser.
 
 No build tools or dependencies required – it’s 100% client-side!
